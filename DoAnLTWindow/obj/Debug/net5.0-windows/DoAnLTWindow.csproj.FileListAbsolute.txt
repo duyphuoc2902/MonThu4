@@ -1,0 +1,144 @@
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.exe
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.deps.json
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.json
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.dll
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.pdb
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.dll
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.pdb
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.genruntimeconfig.cache
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmLogin.resources
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmQuanLy.resources
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAccProfile.resources
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAdmin.resources
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.Properties.Resources.resources
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.exe
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.deps.json
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.json
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.dev.json
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.AssemblyReference.cache
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAccProfile.resources
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAdmin.resources
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmLogin.resources
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmQuanLy.resources
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.Properties.Resources.resources
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.GenerateResource.cache
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfoInputs.cache
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfo.cs
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CoreCompileInputs.cache
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.genruntimeconfig.cache
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.exe
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.deps.json
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.json
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.dev.json
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.AssemblyReference.cache
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAccProfile.resources
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAdmin.resources
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmLogin.resources
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmQuanLy.resources
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.Properties.Resources.resources
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.GenerateResource.cache
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfoInputs.cache
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfo.cs
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CoreCompileInputs.cache
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.genruntimeconfig.cache
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.exe
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.deps.json
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.json
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.dev.json
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.dll
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.pdb
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAccProfile.resources
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAdmin.resources
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmLogin.resources
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmQuanLy.resources
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.Properties.Resources.resources
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfo.cs
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CopyComplete
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.dll
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\refint\DoAnLTWindow.dll
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.pdb
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.genruntimeconfig.cache
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.exe
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.deps.json
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.json
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.dev.json
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.AssemblyReference.cache
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAccProfile.resources
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAdmin.resources
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmLogin.resources
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmQuanLy.resources
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.Properties.Resources.resources
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.GenerateResource.cache
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfoInputs.cache
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfo.cs
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CoreCompileInputs.cache
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CopyComplete
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\refint\DoAnLTWindow.dll
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.genruntimeconfig.cache
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmChangeTablecs.resources
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmOrder.resources
